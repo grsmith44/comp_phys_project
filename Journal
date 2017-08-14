@@ -1,0 +1,23 @@
+
+Project information:
+
+Project Briefing Notes:
+
+- 3000 word write-up limit
+- Concetrate on computational physics aspects relevant to the project of choice
+- Plan for efficiency and efficient scaling:
+-- Output CPU time for completion of the given problem (breif section)
+
+- Equal credit in the areas:
+-- Analysis of computational physics
+-- Implementation of Algorithim; Code style; readablilty 
+-- Results and Error analysis, tests and discussions
+-- Overall report presentation
+
+Project C: This Ising Model of a Ferromagnet
+
+Initial Ideas:
+
+The first task I face is in understanding how to efficiently implement the periodic boundary conditions
+
+
